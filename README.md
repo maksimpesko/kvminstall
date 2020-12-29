@@ -1,2 +1,2 @@
 # kvminstall
-kvminstall script fot bash
+kvminstall script for bash
